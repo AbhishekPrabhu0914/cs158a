@@ -21,7 +21,7 @@ total_bytes = int(message[:n])
 
 #Rest of the Bytes
 message = message[n:max(64-n, total_bytes-n)]
-print(message, ".")
+print(message)
 received_data = ""
 #IF the first message is all the bytes
 if(len(message) >= total_bytes):

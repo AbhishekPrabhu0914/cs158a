@@ -17,7 +17,7 @@ Run With Long:
 Server:
 Server is ready to receive...
 Connected from 127.0.0.1
-this_message_has_more_than_sixty_four_characters_and_it_is_val . #This line shows that it was only accepted in bufsize blocks
+this_message_has_more_than_sixty_four_characters_and_it_is_val #This line shows that it was only accepted in bufsize blocks
 processed: this_message_has_more_than_sixty_four_characters_and_it_is_valid_input!!                                                      
 Length of Message Sent: 128
 Connection closed
