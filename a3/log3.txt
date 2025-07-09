@@ -1,2 +1,10 @@
-Received: uuid=a9d56c60-c9cf-4823-9331-b3360c988385, flag=0, greater, 0
-Sent: uuid=a91425d3-b5d1-455a-b32d-9c569fced524, flag=0
+Received: uuid=0e491363-6690-4f26-b140-f27dfbd1a3e2, flag=0, less, 0
+Ignored: uuid=0e491363-6690-4f26-b140-f27dfbd1a3e2, reason=UUID is smaller.
+Received: uuid=f18eb70e-3562-4590-9e8d-b8916e0f77a9, flag=0, greater, 0
+Client not ready. Waiting before sending...
+Attempting to connect to 127.0.0.1:5001
+Sent: uuid=220ce7b2-82ed-4955-ad0b-4a97b31e80f4, flag=0
+Sent: uuid=f18eb70e-3562-4590-9e8d-b8916e0f77a9, flag=0
+Received: uuid=f18eb70e-3562-4590-9e8d-b8916e0f77a9, flag=1, greater, 0
+Sent: uuid=f18eb70e-3562-4590-9e8d-b8916e0f77a9, flag=1
+Leader is f18eb70e-3562-4590-9e8d-b8916e0f77a9

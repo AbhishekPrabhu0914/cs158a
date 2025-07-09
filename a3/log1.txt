@@ -1,3 +1,10 @@
-Sent: uuid=0982d9dc-8788-4216-96a5-0d512bbbdb22, flag=0
-Received: uuid=a91425d3-b5d1-455a-b32d-9c569fced524, flag=0, greater, 0
-Sent: uuid=a91425d3-b5d1-455a-b32d-9c569fced524, flag=0
+Attempting to connect to 127.0.0.1:5002
+Sent: uuid=f18eb70e-3562-4590-9e8d-b8916e0f77a9, flag=0
+Received: uuid=220ce7b2-82ed-4955-ad0b-4a97b31e80f4, flag=0, less, 0
+Ignored: uuid=220ce7b2-82ed-4955-ad0b-4a97b31e80f4, reason=UUID is smaller.
+Received: uuid=f18eb70e-3562-4590-9e8d-b8916e0f77a9, flag=0, same, 0
+Leader is decided to f18eb70e-3562-4590-9e8d-b8916e0f77a9.
+Sent: uuid=f18eb70e-3562-4590-9e8d-b8916e0f77a9, flag=1
+Received: uuid=f18eb70e-3562-4590-9e8d-b8916e0f77a9, flag=1, same, 1, leader_id=f18eb70e-3562-4590-9e8d-b8916e0f77a9
+Received own leader announcement. Terminating propagation.
+Leader is f18eb70e-3562-4590-9e8d-b8916e0f77a9
